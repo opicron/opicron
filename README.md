@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+I'm a developer bridging two worlds: WordPress/Gutenberg and SAP Business One. By day I build custom blocks, integrations, and clean performant solutions; on the side I tinker with fun projects like a Catan clone for an ANSI terminal. If something I made helped you out, a coffee keeps the late-night debugging going.
+
 [Buy Me a Coffee](https://buymeacoffee.com/opicron)
+
+
 [PayPal Donate](https://www.paypal.com/donate/?business=FBJFQ2SUMNKJA&no_recurring=0&currency_code=EUR)
 
 <!--
