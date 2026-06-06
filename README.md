@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://buymeacoffee.com/opicron
+https://www.paypal.com/donate/?business=FBJFQ2SUMNKJA&no_recurring=0&currency_code=EUR
+
 <!--
 **opicron/opicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
